@@ -36,6 +36,6 @@ h1 {
 <br>
 <a href="/controller/login">LogIn</a>
 <br>
-<a href="http://google.co.in">Back To Tutorial</a>
+<a href="https://winneredge.wordpress.com/2015/03/29/spring-login-example/">Back To Tutorial</a>
 </body>
 </html>
